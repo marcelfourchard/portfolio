@@ -1,9 +1,9 @@
 body {
-  background: #FFE669;
+  background: black;
 }
 
 section {
-  border-bottom: #D2D2D2 2px solid;
+  border-bottom: red 0px solid;
   min-height : 98vh;
 }
 
@@ -75,7 +75,7 @@ figure {
 #main-menu ul a {
   display: block;
   color : rgba(0, 0, 0, 1);
-  background: rgba(255, 247, 98, 0.5);
+  background: red;
   padding: 1em;
   margin-bottom: 1px;
 }
